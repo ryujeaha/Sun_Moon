@@ -607,7 +607,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 324262325623033823, guid: 2dafd1af80253fc489fbe2724aaae1a5, type: 3}
       propertyPath: speed
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 324262325623033823, guid: 2dafd1af80253fc489fbe2724aaae1a5, type: 3}
       propertyPath: P1_Wall
@@ -1145,7 +1145,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.8, y: 0.8}
+    oldSize: {x: 0.64, y: 0.64}
     newSize: {x: 2.49621, y: 0.56875473}
     adaptiveTilingThreshold: 0.5
     drawMode: 2
@@ -1460,7 +1460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8011990964017481542, guid: 179f4f2940d97da4f875b759e0f95940, type: 3}
       propertyPath: speed
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8011990964017481542, guid: 179f4f2940d97da4f875b759e0f95940, type: 3}
       propertyPath: P1_Wall
